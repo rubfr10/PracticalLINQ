@@ -1,0 +1,5 @@
+c:\users\ald29159\documents\visual studio 2015\Projects\ACM\ACM\bin\Debug\ACM.dll
+c:\users\ald29159\documents\visual studio 2015\Projects\ACM\ACM\bin\Debug\ACM.pdb
+c:\users\ald29159\documents\visual studio 2015\Projects\ACM\ACM\obj\Debug\ACM.csprojResolveAssemblyReference.cache
+c:\users\ald29159\documents\visual studio 2015\Projects\ACM\ACM\obj\Debug\ACM.dll
+c:\users\ald29159\documents\visual studio 2015\Projects\ACM\ACM\obj\Debug\ACM.pdb

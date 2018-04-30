@@ -1,0 +1,11 @@
+c:\Users\ALD29159\documents\visual studio 2015\Projects\ACM\ACMWIN\bin\Debug\ACMWIN.exe.config
+c:\Users\ALD29159\documents\visual studio 2015\Projects\ACM\ACMWIN\bin\Debug\ACMWIN.exe
+c:\Users\ALD29159\documents\visual studio 2015\Projects\ACM\ACMWIN\bin\Debug\ACMWIN.pdb
+c:\Users\ALD29159\documents\visual studio 2015\Projects\ACM\ACMWIN\bin\Debug\ACM.dll
+c:\Users\ALD29159\documents\visual studio 2015\Projects\ACM\ACMWIN\bin\Debug\ACM.pdb
+c:\Users\ALD29159\documents\visual studio 2015\Projects\ACM\ACMWIN\obj\Debug\ACMWIN.csprojResolveAssemblyReference.cache
+c:\Users\ALD29159\documents\visual studio 2015\Projects\ACM\ACMWIN\obj\Debug\ACMWIN.Properties.Resources.resources
+c:\Users\ALD29159\documents\visual studio 2015\Projects\ACM\ACMWIN\obj\Debug\ACMWIN.csproj.GenerateResource.Cache
+c:\Users\ALD29159\documents\visual studio 2015\Projects\ACM\ACMWIN\obj\Debug\ACMWIN.exe
+c:\Users\ALD29159\documents\visual studio 2015\Projects\ACM\ACMWIN\obj\Debug\ACMWIN.pdb
+c:\Users\ALD29159\documents\visual studio 2015\Projects\ACM\ACMWIN\obj\Debug\ACMWIN.CustomerWin.resources

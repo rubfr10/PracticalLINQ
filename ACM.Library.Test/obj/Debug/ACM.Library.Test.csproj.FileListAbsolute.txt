@@ -1,0 +1,7 @@
+c:\Users\ALD29159\documents\visual studio 2015\Projects\ACM\ACM.Library.Test\bin\Debug\ACM.Library.Test.dll
+c:\Users\ALD29159\documents\visual studio 2015\Projects\ACM\ACM.Library.Test\bin\Debug\ACM.Library.Test.pdb
+c:\Users\ALD29159\documents\visual studio 2015\Projects\ACM\ACM.Library.Test\obj\Debug\ACM.Library.Test.dll
+c:\Users\ALD29159\documents\visual studio 2015\Projects\ACM\ACM.Library.Test\obj\Debug\ACM.Library.Test.pdb
+c:\Users\ALD29159\documents\visual studio 2015\Projects\ACM\ACM.Library.Test\bin\Debug\ACMLIBRARY.dll
+c:\Users\ALD29159\documents\visual studio 2015\Projects\ACM\ACM.Library.Test\bin\Debug\ACMLIBRARY.pdb
+c:\Users\ALD29159\documents\visual studio 2015\Projects\ACM\ACM.Library.Test\obj\Debug\ACM.Library.Test.csprojResolveAssemblyReference.cache
